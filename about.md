@@ -9,13 +9,12 @@ layout: page
 <table style="width: 750px; height: 100px;">
  <tr>
     <td>
-     Ph.D. Candidate <br>
-     Office: N210, SBS Buiding <BR>
+     <br>
      <A HREF="https://linguistics.stonybrook.edu/">Dept. of Linguistics</A><BR>
       Stony Brook University<BR>
      yang.liu.11[_at_]stonybrook[_dot_]edu<BR>
       <BR>
-       <A HREF="CV.pdf">CV</A> (updated Mar. 2022)
+       <A HREF="CV.pdf">CV</A> (updated April 2023)
       <br><br>
 
 </td><td>
