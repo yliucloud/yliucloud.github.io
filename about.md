@@ -28,7 +28,7 @@ layout: page
  </tr>
 </table>
 
-<p  style="text-align:justify"> I am currently a doctoral candidate at Stony Brook University, where I am due to receive my Ph.D. in Linguistics in summer 2022. I am working on my dissertation with my advisor, <A HREF="https://linguistics.stonybrook.edu/faculty/lori.repetti/index.php/">Dr.Lori Repetti</A>. 
+<p  style="text-align:justify"> I am currently working as a language engineer at Amazon Alexa AI team. I completed my dissertation in 2022 under the guidance of my advisor, <A HREF="https://linguistics.stonybrook.edu/faculty/lori.repetti/index.php/">Dr.Lori Repetti</A>. 
 </p>
 
 <h2>Research</h2>
