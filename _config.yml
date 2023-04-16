@@ -15,8 +15,8 @@ picture: assets/images/2.jpg
 
 #resume: true
 
-url: https://coglo.github.io
-your url: http://coglo.github.io
+url: https://yliucloud.github.io
+your url: http://yliucloud.github.io
 
 permalink: /:title/
 
@@ -41,7 +41,7 @@ twitter: twitter
 #linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: coglo
+github: yliucloud
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
