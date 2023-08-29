@@ -4,7 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-
+<p align="center">
+    <img src="assets/images/1.jpg" alt="image" style="width: 250px; height: 100px;">
+</p>
 
 <table style="width: 750px; height: 100px;">
  <tr>
