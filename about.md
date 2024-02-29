@@ -25,10 +25,10 @@ layout: page
  </tr>
 </table>
 
-<p  style="text-align:justify"> I am currently working as a language engineer at Amazon Alexa AI team. I completed my dissertation in 2022 under the guidance of my advisor, <A HREF="https://linguistics.stonybrook.edu/faculty/lori.repetti/index.php/">Dr.Lori Repetti</A>. 
-</p>
-
 <h2>Research</h2>
+
+<p  style="text-align:justify"> I completed my dissertation in 2022 under the guidance of my advisor, <A HREF="https://linguistics.stonybrook.edu/faculty/lori.repetti/index.php/">Dr.Lori Repetti</A>. 
+</p>
 
 <p  style="text-align:justify">
 Dissertation: Addressing Outstanding Questions of the Mandarin Syllable
